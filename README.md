@@ -29,7 +29,11 @@ curl --location --request GET 'http://localhost:5000/WeatherForecast' \
 ```
 
 https://datalust.co/seq
+
 https://hub.docker.com/r/datalust/seq/
+
 https://www.rabbitmq.com/
+
 https://hub.docker.com/_/rabbitmq
+
 https://github.com/stevejgordon/CorrelationId
