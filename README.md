@@ -28,6 +28,8 @@ curl --location --request GET 'http://localhost:5000/WeatherForecast' \
 --header 'User: LoggedInUser'
 ```
 
+- View logs in Seq http://localhost:5341
+
 https://datalust.co/seq
 
 https://hub.docker.com/r/datalust/seq/
