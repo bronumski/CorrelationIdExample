@@ -18,7 +18,7 @@ docker run -d --hostname my-rabbit --name some-rabbit -p 8080:15672 -p 5672:5672
 ```
 dotnet run -project WebAppA
 dotnet run -project WebAppB
-dotnet run -project Worker
+dotnet run -project WorkerApp
 ```
 
 - Hit the WebApp endpoint
